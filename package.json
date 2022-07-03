@@ -1,0 +1,25 @@
+{
+  "name": "ng-bright-idea",
+  "version": "0.1.0",
+  "description": "Idea composer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabinortega/ng-bright-idea.git"
+  },
+  "keywords": [
+    "bright",
+    "idea",
+    "angular",
+    "component"
+  ],
+  "author": "Gabino Ortega",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabinortega/ng-bright-idea/issues"
+  },
+  "homepage": "https://github.com/gabinortega/ng-bright-idea#readme"
+}
